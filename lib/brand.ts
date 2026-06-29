@@ -488,7 +488,7 @@ export const brand: Brand = {
         ],
       },
     ],
-    poweredBy: { label: "Cimplify", href: "https://app.cimplify.io" },
+    poweredBy: { label: "Cimplify", href: "https://www.cimplify.io/" },
   },
 
   llms: {
